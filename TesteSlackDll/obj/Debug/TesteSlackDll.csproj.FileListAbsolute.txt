@@ -1,0 +1,12 @@
+C:\MyProjects\TesteSlackDll\TesteSlackDll\bin\Debug\TesteSlackDll.exe.config
+C:\MyProjects\TesteSlackDll\TesteSlackDll\bin\Debug\TesteSlackDll.exe
+C:\MyProjects\TesteSlackDll\TesteSlackDll\bin\Debug\TesteSlackDll.pdb
+C:\MyProjects\TesteSlackDll\TesteSlackDll\bin\Debug\Slack.Webhooks.dll
+C:\MyProjects\TesteSlackDll\TesteSlackDll\bin\Debug\RestSharp.dll
+C:\MyProjects\TesteSlackDll\TesteSlackDll\bin\Debug\ServiceStack.Text.dll
+C:\MyProjects\TesteSlackDll\TesteSlackDll\bin\Debug\Slack.Webhooks.pdb
+C:\MyProjects\TesteSlackDll\TesteSlackDll\bin\Debug\RestSharp.xml
+C:\MyProjects\TesteSlackDll\TesteSlackDll\bin\Debug\ServiceStack.Text.xml
+C:\MyProjects\TesteSlackDll\TesteSlackDll\obj\Debug\TesteSlackDll.csprojResolveAssemblyReference.cache
+C:\MyProjects\TesteSlackDll\TesteSlackDll\obj\Debug\TesteSlackDll.exe
+C:\MyProjects\TesteSlackDll\TesteSlackDll\obj\Debug\TesteSlackDll.pdb
